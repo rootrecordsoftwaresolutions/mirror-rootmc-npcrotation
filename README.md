@@ -1,17 +1,13 @@
-# NPCRotation
-This Plugin makes your NPCs on Nukkit look on you.
+# mirror-rootmc-npcrotation
 
-# How to
-1. Download the jar.
-2. Put the jar in the plugins folder of your Nukkit server.
-3. Make sure you installed [this](https://nukkitx.com/resources/npc.143/).
-4. Restart the server and enjoy!
+> **Inventory mirror (2026-08)** — not primary development.
 
-# Questions/Problems?
-Feel free to create an issue.
+> **Authority:** [RootRecord-Software-Solutions](https://github.com/RootRecord-Software-Solutions) (org)  
+> **Docs index:** [MIGRATION-DOCS-INDEX](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/MIGRATION-DOCS-INDEX-2026-09-28.md)  
+> **Product / archive catalog:** [Product-Archive-Repo-Catalog](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/Product-Archive-Repo-Catalog-2026-09-28.md)  
+> **Live Pacific:** [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)  
+> **Library:** [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library)
 
-------------
+Static inventory mirror of `RootMC/NPCRotation` from the 2026-08 account consolidation. **Do not develop against this repo.** Prefer historical source or future product home under the org after Pacific catch-up.
 
-*This plugin was made for the German Minecraft: Bedrock Edition Network AdvancedCraft.net.*
-
-[Join](https://join.advancedcraft.net) | [Website](https://advancedcraft.net) | [Discord](https://discord.advancedcraft.net)
+*Transition banner 2026-09-28 HST.*
